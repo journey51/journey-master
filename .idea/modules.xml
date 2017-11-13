@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/journey-common-util/journey-common-util.iml" filepath="$PROJECT_DIR$/journey-common-util/journey-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/journey-eureka/journey-eureka.iml" filepath="$PROJECT_DIR$/journey-eureka/journey-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/journey-master.iml" filepath="$PROJECT_DIR$/journey-master.iml" />
     </modules>
   </component>
